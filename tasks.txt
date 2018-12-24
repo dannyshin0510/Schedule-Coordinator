@@ -1,0 +1,7 @@
+GENE121_marking 800 3
+MTE100_planning 1400 2
+TA_management 1100 3
+Clean_whiteboard 900 1
+meeting 1600 2
+lunch 1600 1
+walk_dog 600 1
